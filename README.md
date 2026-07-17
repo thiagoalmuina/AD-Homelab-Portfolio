@@ -47,7 +47,7 @@ discover:
 
 ## Connect
 
-LinkedIn: www.linkedin.com/in/thiago-almuina  Resume: [add a link or "available on request"]
+LinkedIn: www.linkedin.com/in/thiago-almuina  Resume: Available on Request
 
 ---
 
